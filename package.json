@@ -1,7 +1,7 @@
 {
   "name": "casacriativa",
   "version": "1.0.0",
-  "description": "",
+  "description": "> Projeto Web desenvolvido na Semana OmniStack 11.0 RocketSeat",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
